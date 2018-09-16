@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "album-frontend"
+		},
+		{
+			"path": "album-backend"
+		}
+	],
+	"settings": {}
+}

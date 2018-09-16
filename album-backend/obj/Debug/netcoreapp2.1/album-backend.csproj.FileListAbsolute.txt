@@ -1,0 +1,14 @@
+/home/asgaleote/projetos/album_figurinha/album-backend/bin/Debug/netcoreapp2.1/album-backend.deps.json
+/home/asgaleote/projetos/album_figurinha/album-backend/bin/Debug/netcoreapp2.1/album-backend.runtimeconfig.json
+/home/asgaleote/projetos/album_figurinha/album-backend/bin/Debug/netcoreapp2.1/album-backend.runtimeconfig.dev.json
+/home/asgaleote/projetos/album_figurinha/album-backend/bin/Debug/netcoreapp2.1/album-backend.dll
+/home/asgaleote/projetos/album_figurinha/album-backend/bin/Debug/netcoreapp2.1/album-backend.pdb
+/home/asgaleote/projetos/album_figurinha/album-backend/obj/Debug/netcoreapp2.1/album-backend.csprojAssemblyReference.cache
+/home/asgaleote/projetos/album_figurinha/album-backend/obj/Debug/netcoreapp2.1/album-backend.csproj.CoreCompileInputs.cache
+/home/asgaleote/projetos/album_figurinha/album-backend/obj/Debug/netcoreapp2.1/album-backend.RazorAssemblyInfo.cache
+/home/asgaleote/projetos/album_figurinha/album-backend/obj/Debug/netcoreapp2.1/album-backend.RazorAssemblyInfo.cs
+/home/asgaleote/projetos/album_figurinha/album-backend/obj/Debug/netcoreapp2.1/album-backend.AssemblyInfoInputs.cache
+/home/asgaleote/projetos/album_figurinha/album-backend/obj/Debug/netcoreapp2.1/album-backend.AssemblyInfo.cs
+/home/asgaleote/projetos/album_figurinha/album-backend/obj/Debug/netcoreapp2.1/album-backend.RazorTargetAssemblyInfo.cache
+/home/asgaleote/projetos/album_figurinha/album-backend/obj/Debug/netcoreapp2.1/album-backend.dll
+/home/asgaleote/projetos/album_figurinha/album-backend/obj/Debug/netcoreapp2.1/album-backend.pdb
