@@ -5,6 +5,7 @@ using Models;
 
 namespace Controllers
 {
+
     [Route("api/[controller]")]
     [ApiController]
     public class UsuarioController : ControllerBase
@@ -28,6 +29,15 @@ namespace Controllers
             }
         }
 
+        [HttpPost]
+        public string PostUsuario(Usuario usuario){
+
+            _context.Usuarios.Add(usuario);
+            _context.SaveChanges();
+
+            return "200";
+        }
+
         [HttpGet]
         public ActionResult<List<Usuario>> GetAll()
         {
@@ -41,6 +51,19 @@ namespace Controllers
             if (usuario == null) {
                 return NotFound();
             }
+            return usuario;
+        }
+
+        [HttpGet("{email}", Name = "GetUsuarioEmail")]
+        public ActionResult<List<Usuario>> GetByEmailPwd(string email, string senha)
+        {
+            var usuario = _context.Usuarios.Where(u => u.Email.Contains(email) 
+                    && u.Senha.Contains(senha)).ToList();
+            
+            if (usuario == null) {
+                return NotFound();
+            }
+            
             return usuario;
         }
     }
